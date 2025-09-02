@@ -1,0 +1,6 @@
+body { font-family: 'Comic Sans MS', cursive, sans-serif; background: #fefefe; margin: 0; padding: 0; }
+header { background: #ff80ab; padding: 20px; text-align: center; color: white; }
+nav a { margin: 0 10px; color: white; text-decoration: none; font-weight: bold; }
+.slider { display: flex; overflow-x: auto; gap: 10px; padding: 20px; background: #fce4ec; }
+.slide { min-width: 200px; height: 150px; background: #ffccbc; display: flex; align-items: center; justify-content: center; border-radius: 10px; font-size: 18px; font-weight: bold; }
+main { padding: 20px; }
